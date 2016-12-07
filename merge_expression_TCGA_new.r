@@ -1,7 +1,7 @@
-setwd("E://Shruti//Small Projects//TCGA//New folder//")
+setwd("E://smandape//Small Projects//TCGA//New folder//")
 
 
-files<-read.csv("E://Shruti//Small Projects//TCGA//New folder//gdc_manifest_20161014_163716.txt",header=T,sep="\t")
+files<-read.csv("E://Smandape//Small Projects//TCGA//New folder//gdc_manifest_20161014_163716.txt",header=T,sep="\t")
 expr<-data.frame(0)
 
 
